@@ -1,0 +1,16 @@
+---
+author: Ali Daşbaşı
+description: Folyolar
+email: ali.dasbasi@bil.omu.edu.tr
+url: ''
+domain: ''
+intro: ''
+googleanalytics: UA-33297379-1
+googleplus: ''
+brand: default
+landslide: /usr/bin/landslide
+css: _/default.css
+js: _/default.js
+theme: light
+indextemplate: _/index.erb
+foliotemplate: _/default.erb
